@@ -123,7 +123,7 @@ applicative-evaluation 会将操作数计算得到结果再应用。
 继续使用 applicative-order evaluation 的程式作为例子，通过 normal-order evaluation 的方式展开表达式 `(f 5)`
 
 ```scheme
-(sum-of-squares (+ 5 1) (* 5 2)))
+(sum-of-squares (+ 5 1) (* 5 2))
 (+ (square (+ 5 1)) (square (* 5 2)))
 (+ (* (+ 5 1) (+ 5 1)) (* (* 5 2) (* 5 2)))
 
