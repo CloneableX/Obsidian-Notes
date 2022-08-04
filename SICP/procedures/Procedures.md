@@ -1,4 +1,4 @@
-通过使用 `define` 将[[Expressions|表达式]]定义为程式。
+我们可以简单地通过使用 `define` 将[[Expressions|表达式]]定义为程式，除些之外，还可以通过将程式作为参数或返回结果构建[[High-Order Procedures|高阶程式]]。
 
 ### 程式的黑盒抽象
 
