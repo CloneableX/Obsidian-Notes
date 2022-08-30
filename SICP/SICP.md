@@ -8,5 +8,7 @@
 - [[Data|基础数据类型]]
 - [数据对象](obsidian://open?vault=SICP&file=data%2FData%20Object)是对于数据的组合与抽象
 
+不同技术将构成不同的编程风格，除了可视为数学函数表达的函数式编程之外，还有可赋值可维护状态变量的[[Imperative Programming|命令式编程]]。
+
 除了上述编程语言概念外还有一些[[Methodology and Property|方法论]]
 
