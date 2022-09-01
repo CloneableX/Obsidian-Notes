@@ -3,3 +3,4 @@
 通常模型有如下几种：
 
 - [[Substitution Model|替换模型]]
+- [[Environment Model|环境模型]]

@@ -1,8 +1,8 @@
 ### 程式
 - [程式](obsidian://open?vault=SICP&file=procedures%2FProcedures)是[[Expressions|表达式]]的组合与抽象
 	- 通过[高阶程式](obsidian://open?vault=SICP&file=procedures%2FHigh-Order%20Procedures)可以进行更级别的抽象
-- [[Models|模型]]是解释器处理[程式](obsidian://open?vault=SICP&file=procedures%2FProcedures)的抽象化
-- 通过[[Models|模型]]对[程式](obsidian://open?vault=SICP&file=procedures%2FProcedures)的解析将产生[[Processes|过程]]，这有利于人们了解和设计程序
+- [[Models of Evaluation|模型]]是解释器处理[程式](obsidian://open?vault=SICP&file=procedures%2FProcedures)的抽象化
+- 通过[[Models of Evaluation|模型]]对[程式](obsidian://open?vault=SICP&file=procedures%2FProcedures)的解析将产生[[Processes|过程]]，这有利于人们了解和设计程序
 
 ### 数据
 - [[Data|基础数据类型]]
