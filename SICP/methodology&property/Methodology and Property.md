@@ -8,6 +8,7 @@
 	- [[Message Passing|消息传递]]
 	- [[Coercion|强制转换]]
 	- [[Hierarchies of types|类型体系结构]]
+- [[Event-driven Simulation|事件驱动模拟]]
 
 ### 特性
 - [[Closure Property|闭包特性]]
