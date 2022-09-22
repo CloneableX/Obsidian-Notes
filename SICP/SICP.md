@@ -13,5 +13,8 @@
 - 不同技术将构成不同的编程风格，除了可视为数学函数表达的函数式编程之外，还有可赋值可维护状态变量的[[Imperative Programming|命令式编程]]
 - 赋值操作同时引入了时间性，同时也引出了[[Concurrency|并发]]问题
 
+### 关于求值器
+- [[Metacircular Evaluator|元循环求值器]]
+
 除了上述编程语言概念外还有一些[[Methodology and Property|方法论]]
 
