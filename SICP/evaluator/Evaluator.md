@@ -6,3 +6,4 @@
 
 - [[Metacircular Evaluator|元循环求值器]]
 - [[Lazy Evaluation|惰性求值器]]
+- [[Amb Evaluator|amb 求值器]]
