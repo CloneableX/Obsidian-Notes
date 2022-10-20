@@ -6,5 +6,5 @@
 
 - [[Metacircular Evaluator|元循环求值器]]
 - [[Lazy Evaluation|惰性求值器]]
-- [[Nodeterministic Computing|非确定性求值]]
+- [[Amb Evaluator|amb 求值器]]
 - [[Logic Programming|逻辑编程]]
