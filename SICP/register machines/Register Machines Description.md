@@ -1,4 +1,4 @@
-寄存器机器描述是一门用于描述[[Register Machines|寄存器机器]]的语言，主要由指令构成。
+寄存器机器描述是一门用于描述[寄存器机器](obsidian://open?vault=SICP&file=register%20machines%2FRegister%20Machines)的语言，主要由指令构成。
 
 ### 指令
 

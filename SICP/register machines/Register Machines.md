@@ -7,3 +7,9 @@
 ![data path](https://github.com/CloneableX/SICP-learning/wiki/images/5/5-1.png)
 
 ![controller](https://github.com/CloneableX/SICP-learning/wiki/images/5/5-2.png)
+
+要实现一台 Lisp 求值器的寄存器机器需要掌握和利用下列技术
+
+- [[Register Machines Description|寄存器机器的描述]]
+- [[Storage Allocation|存储管理]]
+- [[Garbage Collection|垃圾回收]]
