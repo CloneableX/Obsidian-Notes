@@ -13,3 +13,5 @@
 - [[Register Machines Description|寄存器机器的描述]]
 - [[Storage Allocation|存储管理]]
 - [[Garbage Collection|垃圾回收]]
+
+如果将[元循环求值器](obsidian://open?vault=SICP&file=evaluator%2FMetacircular%20Evaluator) 转换为寄存器机器描述，则将得到[[Explicit-Control Evaluator|显示控制求值器]]
